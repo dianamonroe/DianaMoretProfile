@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diana Moret</h1>
+<h1 align="center">Hi 👋, I'm Diana Moret (A.K.A Diana Monroe)</h1>
 <h3 align="center">Business-Driven AI/ML & Data Scientist | Data-Powered Growth & Deep-Tech Strategist</h3>
 
 - 🔭 I’m currently working on **Several Neural Networks using image and text encoders to distinguish sourdough bread by images alone**
