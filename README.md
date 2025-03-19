@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diana Moret (A.K.A Diana Monroe)</h1>
 <h3 align="center">Deep Tech Strategist & AI Business Model Developer | Business-Driven AI/ML & Data Scientist</h3>
 
-🔭 I’m currently working on 2 AI reseach own projects:
+🔭 I’M CURRENTLY WORKING ON 2 AI RESEACH OWN PROJECTS:
+
   1. 🚀 **"No-code, no-trading-skills needed" Automated Crypto Trading System** using **ML and Open-Source LLMs** that:
        * **Continuously analyzes and identifies** the most profitable trading strategies across all available crypto and DeFi opportunities using **Deep Neural Networks (LSTM,
          Transformer Time Series, and pre-trained ML models**).
@@ -44,17 +45,17 @@
         * **Vision-Language Transformers**: Utilize architectures like **DeepMind’s Flamingo**, which integrates text-image embeddings for more **context-aware food classification**.  
 
    
-- 🌱 I’m currently learning **Algorithmic Trading, Trading Crypto, Neural Networks, Multimodal NLP-image encoding, image-text Fusion Neural Networks**
+🌱 I’m currently learning **Algorithmic Trading, Trading Crypto, Neural Networks, Multimodal NLP-image encoding, image-text Fusion Neural Networks**
 
-- 👯 I’m looking to collaborate on **AI, ML, and Data Science projects aimed to solve complex business & science challenges by hybridizing and fine-tuning ML models**
+👯 I’m looking to collaborate on **AI, ML, and Data Science projects aimed to solve complex business & science challenges by hybridizing and fine-tuning ML models**
 
-- 🤝 I’m looking for help with **Algorithmic Trading powered by LLMs** and **Open source fine-grained computer vision models**
+🤝 I’m looking for help with **Algorithmic Trading powered by LLMs** and **Open source fine-grained computer vision models**
 
-- 💬 Ask me about **defining scalable, AI-driven solutions** that **solve real-world challenges**, hybridizing and **fine-tuning ML models** (e.g., **multimodal NLP-image encoding**, **image-text fusion networks**), and driving **user adoption** and **marketability** for cutting-edge **AI innovations**.
+💬 Ask me about **defining scalable, AI-driven solutions** that **solve real-world challenges**, hybridizing and **fine-tuning ML models** (e.g., **multimodal NLP-image encoding**, **image-text fusion networks**), and driving **user adoption** and **marketability** for cutting-edge **AI innovations**.
 
-- 📫 How to reach me **diana@pandorahub.co**
+📫 How to reach me **diana@pandorahub.co**
 
-- 📄 Know about my experiences [https://bit.ly/DianaMoret_Resume_Gen](https://bit.ly/DianaMoret_Resume_Gen)
+📄 Know about my experiences [https://bit.ly/DianaMoret_Resume_Gen](https://bit.ly/DianaMoret_Resume_Gen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
