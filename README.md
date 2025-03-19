@@ -2,7 +2,7 @@
 <h3 align="center">Deep Tech Strategist & Business Model Developer | Business-Driven AI/ML & Data Scientist</h3>
 
 - 🔭 I’m currently working on 2 AI reseach own projects:
-    1. 🚀 **No-Code, no-rrading-skills needed Automated Crypto Trading System** using **ML and Open-Source LLMs** that:
+    1. 🚀 **"No-code, no-trading-skills needed" Automated Crypto Trading System** using **ML and Open-Source LLMs** that:
        * **Continuously analyzes and identifies** the most profitable trading strategies across all available crypto and DeFi opportunities using **Deep Neural Networks (LSTM,
          Transformer Time Series, and pre-trained ML models**).
        * **Automatically executes trades second-by-second on the most optimal positions** using major **crypto exchange APIs** (Binance, Kraken, TradingView, etc.).
