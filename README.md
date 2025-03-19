@@ -3,47 +3,45 @@
 
 - 🔭 I’m currently working on 2 AI reseach own projects:
     1. - **Developing a No-Code, No-Trading-Skills Needed Automated Crypto Trading System Using ML and Open-Source LLMs that:
-       1. **Continuously analyzes and identifies** the most profitable trading strategies across all available crypto and DeFi opportunities using **Deep Neural Networks (LSTM,
-       Transformer Time Series, and pre-trained ML models**).
-       3. **Automatically executes trades second-by-second on the most optimal positions** using major **crypto exchange APIs** (Binance, Kraken, TradingView, etc.).
-       4. **Dynamically adapts to risk preferences** by allowing users to set personalized daily parameters:
-            - Max. daily loss
-            - Max. daily investment
-            - Stop-loss & take-profit strategies
-            - Auto-reinvestment of accumulated capital
-            - Requires no coding or trading knowledge—everything is automated and fine-tuned by AI/ML.
+       * **Continuously analyzes and identifies** the most profitable trading strategies across all available crypto and DeFi opportunities using **Deep Neural Networks (LSTM,
+         Transformer Time Series, and pre-trained ML models**).
+       * **Automatically executes trades second-by-second on the most optimal positions** using major **crypto exchange APIs** (Binance, Kraken, TradingView, etc.).
+       * **Dynamically adapts to risk preferences** by allowing users to set personalized daily parameters:
+            * Max. daily loss
+            * Max. daily investment
+            * Stop-loss & take-profit strategies
+            * Auto-reinvestment of accumulated capital
+            * Requires no coding or trading knowledge—everything is automated and fine-tuned by AI/ML.
                 
-    2. 🚀 **AI-Powered Fine-Grained Food Quality Classification System:** Developing an **AI model capable of identifying chef-level food quality just by analyzing food images**, s
-       tarting with **sourdough bread**, using advanced **Computer Vision and NLP models** under a Hybrid Vision-Language AI for Fine-Grained Classification approach:
+    2. 🚀 **AI-Powered Fine-Grained Food Quality Classification System:** Developing an **AI model capable of identifying chef-level food quality just by analyzing food images**,
+           starting with **sourdough bread**, using advanced **Computer Vision and NLP models** under a Hybrid Vision-Language AI for Fine-Grained Classification approach:
        
        🛠️ **Key Technologies & Tools:**  
-          - **Computer Vision**: YOLO11n.pt, Swin Transformer, ResNet50, EfficientNetV2.  
-          - **NLP & Multimodal Learning**: CLIP, BLIP, SLIP.  
-          - **Data Sources**: Google Maps, Instagram, curated chef-verified datasets.  
-          - **AI Training Strategy**: Progressive fine-tuning with **human-in-the-loop validation** for chef-approved classification.  
+          * **Computer Vision**: YOLO11n.pt, Swin Transformer, ResNet50, EfficientNetV2.  
+          * **NLP & Multimodal Learning**: CLIP, BLIP, SLIP.  
+          * **Data Sources**: Google Maps, Instagram, curated chef-verified datasets.  
+          * **AI Training Strategy**: Progressive fine-tuning with **human-in-the-loop validation** for chef-approved classification.  
 
         **A) Custom AI Model for Fine-Grained Food Classification:** Crafting a specialized hybrid **visual + text embedding** model that integrates **deep learning for image
         recognition**
         with **language-based classification** for objective food quality assessment with the following 2 components:
         
-          **1. Visual Feature Extractor**  
-          - Utilize fine-grained **image classification models** such as **YOLO (Yolo11n.pt), Swin Transformer, or EfficientNetV2** to extract detailed visual features:  
-          - **Rind (crust)**: Color, texture, thickness.  
-          - **Crumb (inside)**: Moisture level, alveoli distribution.  
-          - **Shape**: Fermentation evidence, scoring depth.
+          **1. Visual Feature Extractor**: Utilize fine-grained **image classification models** such as **YOLO (Yolo11n.pt), Swin Transformer, or EfficientNetV2** to extract detailed
+           visual features:  
+          * **Rind (crust)**: Color, texture, thickness.  
+          * **Crumb (inside)**: Moisture level, alveoli distribution.  
+          * **Shape**: Fermentation evidence, scoring depth.
               
           **2. Multimodal Text Encoder**  
-          - **Fine-tune CLIP** to generate embeddings from image-associated **descriptive tags**, rather than relying on static class labels.  
-          - **Leverage BLIP or SLIP
+          * **Fine-tune CLIP** to generate embeddings from image-associated **descriptive tags**, rather than relying on static class labels.  
+          * **Leverage BLIP or SLIP
 
         **B) Leveraging Pretrained Multimodal Models for Enhanced Accuracy:** Instead of training from scratch, leverage state-of-the-art **multimodal AI models** that **natively
         support text-image fusion** to boost classification accuracy and generalization:
        
-          **1. Feature Fusion Networks**  
-          - Combine **vision and language models** (e.g., **Deep Feature Fusion Networks**) for improved classification.
+          **1. Feature Fusion Networks**: Combine **vision and language models** (e.g., **Deep Feature Fusion Networks**) for improved classification.
             
-          **2. Vision-Language Transformers**  
-          - Utilize architectures like **DeepMind’s Flamingo**, which integrates text-image embeddings for more **context-aware food classification**.
+          **2. Vision-Language Transformers**: Utilize architectures like **DeepMind’s Flamingo**, which integrates text-image embeddings for more **context-aware food classification**.
           
 
    
