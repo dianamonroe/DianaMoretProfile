@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diana Moret (A.K.A Diana Monroe)</h1>
-<h3 align="center">Deep Tech Strategist & Business Model Developer | Business-Driven AI/ML & Data Scientist</h3>
+<h3 align="center">Deep Tech Strategist & AI Business Model Developer | Business-Driven AI/ML & Data Scientist</h3>
 
 🔭 I’m currently working on 2 AI reseach own projects:
   1. 🚀 **"No-code, no-trading-skills needed" Automated Crypto Trading System** using **ML and Open-Source LLMs** that:
